@@ -109,7 +109,7 @@ Records one full-episode video for the latest saved policy of each game.
 - `resumeTraining.py` — Resume training from saved checkpoints (+50k steps).
 - `createTrainingCurvesAndVideos.py` — Evaluate multiple checkpoints, plot **Avg Return vs Steps**, and save **poor/mid/best** gameplay videos.
 - `deployGamePlayer.py` — Load the **latest** saved policy per game and record one gameplay video.
-- `assignment4_runfile.ipynb` — Notebook containing runnable code blocks and experiments.
+- `Atari_DQN.ipynb` — Notebook containing runnable code blocks and experiments.
 - `Atari_DQN_TFAgents.pdf` — Report with architecture, training strategy, results, and analysis.
 
 ---
